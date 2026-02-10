@@ -1,0 +1,5 @@
+{
+  "defaultLanguage": "typescript",
+  "reactFileType": "tsx",
+  "strictTypes": true
+}
